@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+}
+
+#time {
+  color: aqua;
+  font-size: 120px;
+}
